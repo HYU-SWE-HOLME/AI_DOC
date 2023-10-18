@@ -15,6 +15,4 @@ Kang Museong, Department of Information Systems, bbibbi4808@hanyang.ac.kr
 
 Kwon Hyuktae, Department of Information Systems, kwon0111@hanyang.ac.kr
 
-Lim Kyumin, Department of Information Systems, mycheesepasta@gmail.com
-
 Ha Seongwu, Department of Information Systems, rockey6865@hanyang.ac.kr
